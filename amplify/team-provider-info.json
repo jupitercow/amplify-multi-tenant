@@ -1,0 +1,41 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-noteswithamplify-prod-203026-authRole",
+            "UnauthRoleArn": "arn:aws:iam::430929258210:role/amplify-noteswithamplify-prod-203026-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::430929258210:role/amplify-noteswithamplify-prod-203026-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-noteswithamplify-prod-203026-deployment",
+            "UnauthRoleName": "amplify-noteswithamplify-prod-203026-unauthRole",
+            "StackName": "amplify-noteswithamplify-prod-203026",
+            "StackId": "arn:aws:cloudformation:us-east-1:430929258210:stack/amplify-noteswithamplify-prod-203026/60249630-b590-11ea-90c9-0aece6d977c1",
+            "AmplifyAppId": "d17ppnfedq7r7r"
+        }
+    },
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-noteswithamplify-dev-204348-authRole",
+            "UnauthRoleArn": "arn:aws:iam::430929258210:role/amplify-noteswithamplify-dev-204348-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::430929258210:role/amplify-noteswithamplify-dev-204348-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-noteswithamplify-dev-204348-deployment",
+            "UnauthRoleName": "amplify-noteswithamplify-dev-204348-unauthRole",
+            "StackName": "amplify-noteswithamplify-dev-204348",
+            "StackId": "arn:aws:cloudformation:us-east-1:430929258210:stack/amplify-noteswithamplify-dev-204348/3f4ee850-b592-11ea-8902-0e29088293c9",
+            "AmplifyAppId": "d17ppnfedq7r7r"
+        }
+    },
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-noteswithamplify-test-214245-authRole",
+            "UnauthRoleArn": "arn:aws:iam::430929258210:role/amplify-noteswithamplify-test-214245-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::430929258210:role/amplify-noteswithamplify-test-214245-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-noteswithamplify-test-214245-deployment",
+            "UnauthRoleName": "amplify-noteswithamplify-test-214245-unauthRole",
+            "StackName": "amplify-noteswithamplify-test-214245",
+            "StackId": "arn:aws:cloudformation:us-east-1:430929258210:stack/amplify-noteswithamplify-test-214245/7a58c350-b59a-11ea-9516-0a90b7832da7",
+            "AmplifyAppId": "d17ppnfedq7r7r"
+        }
+    }
+}
